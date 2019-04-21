@@ -1,3 +1,4 @@
 <?php
-echo 'i learn git';
+$variable ="boss"
+echo 'i learn git'.$variable;
 ?>
